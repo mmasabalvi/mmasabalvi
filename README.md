@@ -3,11 +3,11 @@
 <h1 align="center">Hey , it's Masab👋🏻</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
-- 🌱 I’m currently an Undergraduate student **doing Bachelors in Computer Science**
+- 🌱 Undergrad student - **BS(CS)**
 
-- 🔭 I’m looking to collaborate on **open source projects**
+- 🔭 Looking to collaborate on **open source projects**
 
-- 💡 I'm currently learning **Web Development**
+- 💡 Currently learning **Web Development**
 
 - ✉️ You can reach me on **mmasabhammad@gmail.com**
 
