@@ -7,7 +7,7 @@
 
 - 🔭 Looking to collaborate on **open source projects**
 
-- 💡 Currently learning **Web Development**
+- 💡 Currently learning **Deep Learning**
 
 - ✉️ You can reach me on **mmasabhammad@gmail.com**
 
