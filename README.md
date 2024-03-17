@@ -5,11 +5,9 @@
 
 - 🌱 Undergrad student - **BS(CS)**
 
-- 🔭 Looking to collaborate on **open source projects**
-
 - 💡 Currently learning **Deep Learning**
 
-- ✉️ You can reach me on **mmasabhammad@gmail.com**
+- ✉️ Reach me on **mmasabhammad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
