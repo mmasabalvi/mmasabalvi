@@ -3,9 +3,7 @@
 <h1 align="center">Hey , it's Masab👋🏻</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
-- 🌱 Undergrad student - **BS(CS)**
-
-- 💡 Currently learning **Deep Learning**
+- 🌐 Compiling happiness... Warning: Recursive call detected.
 
 - ✉️ Reach me on **mmasabhammad@gmail.com**
 
