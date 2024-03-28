@@ -3,8 +3,6 @@
 <h1 align="center">Hey , it's Masab👋🏻</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
-- 🌐 Optimizing sleep patterns....Insufficient data
-
 - ✉️ Reach me on **mmasabhammad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
