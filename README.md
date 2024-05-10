@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)-->
 
-<h1 align="center">Hey , it's Masab👋🏻</h1>
+<h1 align="center">Hey, it's Masab👋🏻</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 - ✉️ Reach me on **mmasabhammad@gmail.com**
