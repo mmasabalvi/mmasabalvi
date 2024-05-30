@@ -19,14 +19,11 @@
 
 <!-- 1.![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasabalvi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
-
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasabalvi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmasabalvi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
----
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="margin-right: 20px;" />
 <!--[![](https://visitcount.itsvg.in/api?id=mmasabalvi&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
