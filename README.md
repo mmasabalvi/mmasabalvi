@@ -21,10 +21,18 @@
 
 # 📊 GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmasabalvi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmasabalvi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-<img align="right" width="423" src="https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="margin-right: 20px;" />
+<img align="right" width="423" src="https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="margin-right: 20px;" />
 <!--[![](https://visitcount.itsvg.in/api?id=mmasabalvi&icon=2&color=12)](https://visitcount.itsvg.in)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mmasabalvi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasabalvi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mmasabalvi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
