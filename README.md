@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-masab-hammad/">
-    <img width=500 height=200 alt="Hey, it's Masab!" src="Namee.png" />
-  </a>
-</p>
-<br>
+<h1 align="center">Hey, it's Masab👋🏻</h1>
 
 - 🔭 Currently working on **MERN Stack**
 
