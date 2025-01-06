@@ -1,6 +1,9 @@
-<p align="center"><a href="https://www.linkedin.com/in/muhammad-masab-hammad/"><img width=800" alt="Hey, it's Masab!" src="Namee.png" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-masab-hammad/">
+    <img width=600 height=300 alt="Hey, it's Masab!" src="Namee.png" />
+  </a>
+</p>
 <br>
-<h3 align="center">CS @ FAST'26</h3>
 
 - 🔭 Currently working on **MERN Stack**
 
