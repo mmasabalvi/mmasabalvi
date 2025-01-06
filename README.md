@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-masab-hammad/">
-    <img width=600 height=300 alt="Hey, it's Masab!" src="Namee.png" />
+    <img width=500 height=200 alt="Hey, it's Masab!" src="Namee.png" />
   </a>
 </p>
 <br>
