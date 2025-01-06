@@ -1,4 +1,5 @@
-<h1 align="center">Hey, it's Masab 👋🏻</h1>
+<p align="center"><a href="https://www.linkedin.com/in/muhammad-masab-hammad/"><img width=800" alt="Hello, it's Arshaq!" src="Namee.png" /></a></p>
+<br>
 <h3 align="center">CS @ FAST'26</h3>
 
 - 🔭 Currently working on **MERN Stack**
