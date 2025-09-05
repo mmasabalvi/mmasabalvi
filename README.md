@@ -6,16 +6,15 @@
 
 ---
 
-### 
-Currently working on:
-- Qurandaily.pk
-- Iescobillonline.org.pk
-- Snap-chef.netlify.app
-- Campfire-v1.netlify.app
+### Currently Working On
+- [QuranDaily.pk](https://qurandaily.pk)
+- [IescoBillOnline.org.pk](https://iescobillonline.org.pk)
+- [Snap-Chef](https://snap-chef.netlify.app)
+- [Campfire](https://campfire-v1.netlify.app)
 
 ---
 
-### What I work with
+### Techstack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
@@ -48,7 +47,7 @@ Currently working on:
 
 ---
 
-### 🕹️ Fun Contributions
+### Fun Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmasabalvi/mmasabalvi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmasabalvi/mmasabalvi/output/pacman-contribution-graph.svg">
@@ -57,7 +56,14 @@ Currently working on:
 
 ---
 
-### 🔗 Connect With Me
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=dark&hide_border=true" alt="Streak Stats"/>
+</p>
+
+---
+
+### Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-masab-hammad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="34" alt="LinkedIn"/>
@@ -72,7 +78,7 @@ Currently working on:
 
 ---
 
-### 📸 Gallery
+### Gallery
 <!-- Using a 2-column table prevents float overlap and keeps images tidy on GitHub -->
 <table>
   <tr>
@@ -95,10 +101,7 @@ Currently working on:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmasabalvi&theme=dark&hide_border=true" alt="Streak Stats"/>
-</p>
+
 
 
 
