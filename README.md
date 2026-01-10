@@ -78,9 +78,9 @@
 </p>
 
 ---
-
+<!--
 ### Gallery
-<!-- Using a 2-column table prevents float overlap and keeps images tidy on GitHub -->
+<!-- Using a 2-column table prevents float overlap and keeps images tidy on GitHub 
 <table>
   <tr>
     <td align="center">
@@ -101,7 +101,7 @@
 </table>
 
 ---
-
+-->
 
 
 
