@@ -1,7 +1,7 @@
 <h1 align="center">Hey, it's Masab 👋🏻</h1>
 
 <p align="center">
-  <em>Full Stack Web Developer</em>
+  <em>DevOps Engineer | Full Stack Web Developer</em>
 </p>
 
 ---
