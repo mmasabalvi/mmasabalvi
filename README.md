@@ -7,8 +7,8 @@
 ---
 
 ### Currently Working On
+- [Nordvik Rentals](https://nordvikrentals.com/)
 - [QuranDaily.pk](https://qurandaily.pk)
-- [IescoBillOnline.org.pk](https://iescobillonline.org.pk)
 - [Snap-Chef](https://snap-chef.netlify.app)
 - [Campfire](https://campfire-v1.netlify.app)
 
