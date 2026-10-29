@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Masab Hammad</h1>
 
 <p align="center">
-  <em>DevOps Engineer | Full Stack Web Developer</em>
+  <em>used to code cool stuff before being nerfed by corporate</em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### Currently Working On
 - [Nordvik Rentals](https://nordvikrentals.com/)
 - [QuranDaily.pk](https://qurandaily.pk)
-- [Snap-Chef](https://snap-chef.netlify.app)
+- [IESCO](https://iesco.org.pk)
 - [Campfire](https://campfire-v1.netlify.app)
 
 ---
